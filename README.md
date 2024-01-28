@@ -33,19 +33,19 @@ And here is my assembled unit - hardware v1.2
 | Pin Header         | J5        | 2x25 header female, 2.54 mm pitch        | 1        |
 | Pin Header         | J6        | 1x6 pin header, 2.54 mm pitch | 1 |
 | Pin Header         | JP1        | 1x2 pin header, 2.54 mm pitch | 1 |
-| Pin Header         | JP2-JP4        | 1x3 pin header, 2.54 mm pitch | 1 |
+| Pin Header         | JP2-JP4        | 1x3 pin header, 2.54 mm pitch | 3 |
 | Capacitor          | C8-C15   | 1 uF, 16V, electrolytic, 2.54 mm pitch                  | 5       |
 | Capacitor          | C6       | 27pF, ceramic, 2.54 mm pitch                | 1        |
 | Capacitor          | C8-C15   | 0.1 uF, 50V, MLCC, 5 mm pitch                 | 8        |
-| Capacitor          | C7,C20   | 22uF, 6.8V, electrolytic, 2.54 mm pitch                | 1        |
+| Capacitor          | C7,C20   | 22uF, 6.8V, electrolytic, 2.54 mm pitch                | 2        |
 | Resistor           | R1   | 160 kohm, 0.125 W, axial                       | 1        |
-| Resistor           | R2-R4   | 1 kohm, 0.125 W, axial                       | 4        |
+| Resistor           | R2-R4,R8   | 1 kohm, 0.125 W, axial                       | 4        |
 | Resistor           | R5   | 10k kohm, 0.125 W, axial                       | 1        |
 | Resistor           | R9   | 4.7k kohm, 0.125 W, axial                       | 1        |
 | Crystal           | X1   | 4MHz, short 3.5mm heigh max                       | 1        |
-| IC Socket          | U8,U9     | 14 pin DIP                                    | 1        |
-| IC Socket          | U1,U7    | 16 pin DIP                                    | 1        |
-| IC Socket          | U4     | 20 pin DIP                                    | 2        |
+| IC Socket          | U8,U9     | 14 pin DIP                                    | 2       |
+| IC Socket          | U1,U7    | 16 pin DIP                                    | 2        |
+| IC Socket          | U4     | 20 pin DIP                                    | 1        |
 | IC Socket          | U3,U6     | 28 pin DIP                                    | 2        |
 | IC Socket          | U2,U5     | 40 pin DIP                                    | 2        |
 
