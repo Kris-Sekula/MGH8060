@@ -3,11 +3,17 @@ SC/MP INS8060 based microcomputer running National Industrial Basic Language (NI
 
 ## Release Notes
 
+### Schematic
+[Schematic - Version 1.2](Hardware/Schematic.pdf)
+
 ### Changes
+* Version 1.2:
+  
+  * Fixed missing connections. 
 
 * Version 1.1:
   
-  * Fixed missing connections. 
+  * Corrected CE signals (thx Phil)
 
 * Version 1.0
   
