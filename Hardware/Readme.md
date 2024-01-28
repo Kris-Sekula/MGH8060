@@ -1,4 +1,4 @@
-In the Hardware folder, you can find the KiCad sources for the PCB v1.2. 
+In the KiCad folder, you can find the KiCad sources for the PCB v1.2. 
 
 Before you download the files, please consider ordering the PCBs from *PCBWay* by following this [-> link <-](https://www.pcbway.com/project/shareproject/MGH8060_SC_MP_Microcomputer_731c2144.html). 
 
