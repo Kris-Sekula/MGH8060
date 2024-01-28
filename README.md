@@ -69,7 +69,8 @@ And here is my assembled unit - hardware v1.2
 | 0xA002 | Port C |
 | 0xA003 | Ctrl Register |
 
-
+### Schematic
+[Schematic - Version 1.2](Hardware/mgh8060_v1.2.pdf)
 
 ## Release Notes
 
@@ -85,8 +86,6 @@ If you found this helpful and you like the work I do, why not buy me a coffee, t
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R52KGCD)
 
-### Schematic
-[Schematic - Version 1.2](Hardware/mgh8060_v1.2.pdf)
 
 ### Changes
 * Version 1.2:
