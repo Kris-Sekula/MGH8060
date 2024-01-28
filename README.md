@@ -4,7 +4,7 @@ SC/MP INS8060 based microcomputer running National Industrial Basic Language (NI
 ## Release Notes
 
 ### Schematic
-[Schematic - Version 1.2](Hardware/Schematic.pdf)
+[Schematic - Version 1.2](Hardware/mgh8060_v1.2.pdf)
 
 ### Changes
 * Version 1.2:
