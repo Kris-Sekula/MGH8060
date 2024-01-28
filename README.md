@@ -64,10 +64,10 @@ And here is my assembled unit - hardware v1.2
 
 | Address | 8255 Function |
 | :---: | :---: |
-| 0x000 | Port A |
-| 0x001 | Port B |
-| 0x002 | Port C |
-| 0x003 | Ctrl Register |
+| 0xA000 | Port A |
+| 0xA001 | Port B |
+| 0xA002 | Port C |
+| 0xA003 | Ctrl Register |
 
 
 
