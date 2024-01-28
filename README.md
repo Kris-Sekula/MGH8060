@@ -38,12 +38,11 @@ And here is my assembled unit - hardware v1.2
 | Capacitor          | C6       | 27pF, ceramic, 2.54 mm pitch                | 1        |
 | Capacitor          | C8-C15   | 0.1 uF, 50V, MLCC, 5 mm pitch                 | 8        |
 | Capacitor          | C7,C20   | 22uF, 6.8V, electrolytic, 2.54 mm pitch                | 1        |
-
 | Resistor           | R1   | 160 kohm, 0.125 W, axial                       | 1        |
 | Resistor           | R2-R4   | 1 kohm, 0.125 W, axial                       | 4        |
 | Resistor           | R5   | 10k kohm, 0.125 W, axial                       | 1        |
 | Resistor           | R9   | 4.7k kohm, 0.125 W, axial                       | 1        |
-| Crystal           | X1   | 4MHz kohm 3.5mm heigh                       | 1        |
+| Crystal           | X1   | 4MHz, short 3.5mm heigh max                       | 1        |
 | IC Socket          | U8,U9     | 14 pin DIP                                    | 1        |
 | IC Socket          | U1,U7    | 16 pin DIP                                    | 1        |
 | IC Socket          | U4     | 20 pin DIP                                    | 2        |
@@ -51,6 +50,18 @@ And here is my assembled unit - hardware v1.2
 | IC Socket          | U2,U5     | 40 pin DIP                                    | 2        |
 
 ## Release Notes
+
+I used HCT parts for most of the ICs. Power usage was about 60mA
+
+I used Winbond W27C512 (EEPROM pin compatible with EPROMs)
+
+Please consider getting the PCB from my sponsor PCBWay
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/MGH8060_SC_MP_Microcomputer_731c2144.html)
+
+If you found this helpful and you like the work I do, why not buy me a coffee, thanks! :)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R52KGCD)
 
 ### Schematic
 [Schematic - Version 1.2](Hardware/mgh8060_v1.2.pdf)
@@ -62,7 +73,7 @@ And here is my assembled unit - hardware v1.2
 
 * Version 1.1:
   
-  * Corrected CE signals (thx Phil)
+  * Corrected CE signals (thanks Phil)
 
 * Version 1.0
   
