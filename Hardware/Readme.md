@@ -1,8 +1,10 @@
 In the KiCad folder, you can find the KiCad sources for the PCB v1.2. 
 
-Before you download the files, please consider ordering the PCBs from *PCBWay* by following this [-> link <-](https://www.pcbway.com/project/shareproject/MGH8060_SC_MP_Microcomputer_731c2144.html). 
 
-I get a small portion of your order that I can use towards my future open-source projects, and more importantly, PCBWay will be more likely to offer sponsorship again.
+## __Before you download the files, please consider ordering the PCBs from *PCBWay* by following this [-> link <-](https://www.pcbway.com/project/shareproject/MGH8060_SC_MP_Microcomputer_731c2144.html).__
+
+
+I get a small portion of your order that I can use towards my future open-source projects, and more importantly, PCBWay will be more likely to sponsor me again.
 
 Thanks again to PCBWay for sponsoring the PCBs used in this project.
 
