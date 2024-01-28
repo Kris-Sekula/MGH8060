@@ -49,6 +49,28 @@ And here is my assembled unit - hardware v1.2
 | IC Socket          | U3,U6     | 28 pin DIP                                    | 2        |
 | IC Socket          | U2,U5     | 40 pin DIP                                    | 2        |
 
+## Memory Map
+
+| Start | End | RAM | ROM | I/O |
+| :------: | :------: | :----: | :----: | :----: |
+| 0x0000 | 0x1FFF |  | X |  |			
+| 0x2000 | 0x3FFF | X |  |  |			
+| 0x4000 | 0x5FFF | X |  |  |			
+| 0x6000 | 0x7FFF | X |  |  |			
+| 0x8000 | 0x9FFF |  | X |  |			
+| 0xA000 | 0xBFFF |  |  | X |			
+| 0xC000 | 0xDFFF |  | X |  |			
+| 0xE000 | 0xFFFF |  | X |  |
+
+| Address | 8255 Function |
+| :---: | :---: |
+| 0x000 | Port A |
+| 0x001 | Port B |
+| 0x002 | Port C |
+| 0x003 | Ctrl Register |
+
+
+
 ## Release Notes
 
 I used HCT parts for most of the ICs. Power usage was about 60mA
