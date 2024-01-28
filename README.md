@@ -1,5 +1,7 @@
 # MGH8060
 SC/MP INS8060 based microcomputer running National Industrial Basic Language (NIBL)
+Here is an overview of the device:
+![MGH8060_overview](Pictures/Overview_2d.png)
 
 ## Release Notes
 
