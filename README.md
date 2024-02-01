@@ -72,6 +72,11 @@ And here is my assembled unit - hardware v1.2
 ### Schematic
 [Schematic - Version 1.2](Hardware/mgh8060_v1.2.pdf)
 
+### Credits
+* The device is based on the work of [Ronald Dekker](https://www.dos4ever.com/SCMP/SCMP.html#circuit)
+
+* Early versions of my design were reviewed by Phil(aka [Retro Phil](https://www.mccrash-racing.co.uk/philg/picl/picl.htm)) who offered a lot of helpful suggestions, he also contributed all the firmware for MGH8060
+
 ## Release Notes
 
 I used HCT parts for most of the ICs. Power usage was about 60mA
