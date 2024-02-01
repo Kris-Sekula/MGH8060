@@ -1,8 +1,21 @@
 The main firmware file (MGH8060_300124.hex) consists of 3 projects:
 
-* NIBL
-* Floating point BASIC
-* Kitbug+
+* National Industrial Basic Language (NIBL)
+* NIBL with floating point extension
+* Kitbug+ monitor
+
+Connect to the device using one of the serial ports (RS232 or USB-to-TTL adapter), you should be using 2400 baud, 8-bit data, no parity, and one stop bit. The SC/MP is not fast enough to process at 2400 so you need to add a delay between characters and at the end of the line, here are my settings for the popular Tera Term program on Windows:
+
+![SerialSettings](../Pictures/SerialSettings.PNG)
+
+You may also want to adjust the "Terminal settings":
+
+![SerialSettingsTerminal](../Pictures/SerialSettingsTermianl.PNG)
+
+When you reset the board, a menu will be presented, select by pressing 1, 2 or 3:
+
+![Menu](../Pictures/Menu.PNG)
+
 
 There are also a few demo programs that can be uploaded via Kitbug+ "S" command and executed with the "G" command (filename indicates the upload and execution address)
 | Filename | Description |
