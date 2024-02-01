@@ -1,4 +1,4 @@
-The main firmware file (MGH8060_300124.hex) consists of 3 projects:
+The main firmware file (mgh8060v2.hex) consists of 3 projects:
 
 * National Industrial Basic Language (NIBL)
 * NIBL with floating point extension
